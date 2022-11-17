@@ -1,2 +1,2 @@
 # downloadvideo
-Python project for download Youtube video
+Python project for Youtube video download
